@@ -1,5 +1,5 @@
-# v3.0
-- Unified build for 8T / 9R
-- IllusionX kernel built inline
+# v4.0
+- Added OOS cam
+- Fixed FOD ( Zero Flicker now)
 - CTS passed by default
-- Allow locking bootloader after flashing
+- Unified build for 8T/9R
