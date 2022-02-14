@@ -1,5 +1,5 @@
-# v4.0
-- Added OOS cam
-- Fixed FOD ( Zero Flicker now)
+# v4.5
+- Initial CAF build
+- Latest IllusionX build inline
 - CTS passed by default
 - Unified build for 8T/9R
