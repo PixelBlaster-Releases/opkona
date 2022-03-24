@@ -1,5 +1,4 @@
-# v4.5
-- Initial CAF build
-- Latest IllusionX build inline
-- CTS passed by default
-- Unified build for 8T/9R
+# v5.0
+- Initial A12L build
+- Switch to BSP adreno blobs
+- Switch BSP perf blobs
