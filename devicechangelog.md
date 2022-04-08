@@ -1,4 +1,3 @@
-# v5.0
-- Initial A12L build
-- Switch to BSP adreno blobs
-- Switch BSP perf blobs
+# v5.1
+- Probably fixed screen flicker when turning off screen with FOD enabled.
+- Misc changes
