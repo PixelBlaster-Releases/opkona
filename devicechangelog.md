@@ -1,3 +1,4 @@
-# v5.1
-- Probably fixed screen flicker when turning off screen with FOD enabled.
-- Misc changes
+# v5.1 - CAF
+- Initial 12.1 based CAF build
+- No OOS cam for now
+- Bootloader Lock support
