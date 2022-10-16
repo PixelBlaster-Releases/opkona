@@ -1,13 +1,13 @@
 {
 "response": [
 {
-"datetime": 1657855517,
-"filename": "PixelBlaster-CAF-5.3-lemonkebab-GAPPS-OFFICIAL.zip",
-"id": "f0af9e160e775027bf1dfeb859e23053", 
+"datetime": 1665856821,
+"filename": "PixelBlaster-CAF-6.0-lemonkebab-GAPPS-OFFICIAL.zip",
+"id": "b5e906d46731e5edb0b82734f7de61fc", 
 "romtype": "OFFICIAL", 
-"size": 1944296679, 
+"size": 1784207060, 
 "url": "https://github.com/PixelBlaster-Releases/lemonkebab/releases/download/v5.3/PixelBlaster-CAF-5.3-lemonkebab-GAPPS-OFFICIAL.zip", 
-"version": "5.3"
+"version": "6.0"
 }
         ]
 }
