@@ -1,13 +1,13 @@
 {
 "response": [
 {
-"datetime": 1667984460,
-"filename": "PixelBlaster-CAF-6.1-opkona-GAPPS-OFFICIAL.zip",
-"id": "a0e57049ce27da5ebe729684892f94db", 
+"datetime": 1671112830,
+"filename": "PixelBlaster-CAF-6.2-opkona-GAPPS-OFFICIAL.zip",
+"id": "504aee2d7acb8facbba49480527b4ee3", 
 "romtype": "OFFICIAL", 
-"size": 1875161249, 
-"url": "https://github.com/PixelBlaster-Releases/opkona/releases/download/v6.1/PixelBlaster-CAF-6.1-opkona-GAPPS-OFFICIAL.zip", 
-"version": "6.1"
+"size": 2081754883, 
+"url": "https://github.com/PixelBlaster-Releases/opkona/releases/download/v6.2/PixelBlaster-CAF-6.2-opkona-GAPPS-OFFICIAL.zip", 
+"version": "6.2"
 }
         ]
 }
