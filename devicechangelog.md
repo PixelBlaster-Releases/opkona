@@ -1,6 +1,7 @@
-# v6.1 - CAF
+# v6.2 - CAF
 - Removed unnecessary debugging from kernel
-- Upstreamed kernel to v4.19.264
-- Merged latest CLO tag in kernel
-- Fixed wide and macro cams on OP8
+- Upstreamed kernel to v4.19.267
+- Optimized the shit of the kernel
+- Added KProfiles support
 - IllusionX kernel built inline
+- Added dolby
